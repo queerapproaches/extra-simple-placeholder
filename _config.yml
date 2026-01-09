@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Docs
-description: A Jekyll theme for documentation
+title: Queer Approaches to Media
+description: An emergent community for emergent scholars
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
@@ -84,7 +84,7 @@ search:
   tokenizer_separator: /[\s/]+/
   # Display the relative url in search results
   # Supports true (default) or false
-  rel_url: true
+  rel_url: false
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
